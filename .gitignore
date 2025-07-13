@@ -1,0 +1,23 @@
+# macOS and Windows junk files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Node-related (optional future use)
+node_modules/
+npm-debug.log*
+
+# Environment/config
+.env
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Cache/temp folders
+.cache/
+.temp/
